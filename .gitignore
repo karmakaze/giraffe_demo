@@ -1,0 +1,7 @@
+.paket/
+paket-files/
+src/giraffe_demo/.vs/
+src/giraffe_demo/bin/
+src/giraffe_demo/obj/
+tests/giraffe_demo.Tests/bin/
+tests/giraffe_demo.Tests/obj/
